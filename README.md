@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abinav1801/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
