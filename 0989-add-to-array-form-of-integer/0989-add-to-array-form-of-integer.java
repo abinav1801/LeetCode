@@ -7,10 +7,11 @@ class Solution {
                 num += arr[size];
             }
 
-            result.add(0,num % 10);
+            result.add(num % 10);
             num /= 10;
             size--;
         }
+        Collections.reverse(result);
         return result;
     }
 }
