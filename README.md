@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinav1801/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
