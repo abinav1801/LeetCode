@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abinav1801/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/abinav1801/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinav1801/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abinav1801/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/abinav1801/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abinav1801/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
