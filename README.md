@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinav1801/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinav1801/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abinav1801/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abinav1801/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abinav1801/LeetCode/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinav1801/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinav1801/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abinav1801/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Matrix
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinav1801/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinav1801/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
