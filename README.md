@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinav1801/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abinav1801/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abinav1801/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/abinav1801/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abinav1801/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/abinav1801/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
