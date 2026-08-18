@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/abinav1801/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abinav1801/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinav1801/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Greedy
 |  |
 | ------- |
