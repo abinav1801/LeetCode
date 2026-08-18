@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/abinav1801/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abinav1801/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abinav1801/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/abinav1801/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Counting
 |  |
 | ------- |
