@@ -77,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abinav1801/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abinav1801/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0299-bulls-and-cows](https://github.com/abinav1801/LeetCode/tree/master/0299-bulls-and-cows) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abinav1801/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abinav1801/LeetCode/tree/master/0049-group-anagrams) |
+| [0299-bulls-and-cows](https://github.com/abinav1801/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/abinav1801/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/abinav1801/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Prefix Sum
