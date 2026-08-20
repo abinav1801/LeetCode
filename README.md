@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/abinav1801/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/abinav1801/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abinav1801/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abinav1801/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/abinav1801/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/abinav1801/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abinav1801/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
 | ------- |
