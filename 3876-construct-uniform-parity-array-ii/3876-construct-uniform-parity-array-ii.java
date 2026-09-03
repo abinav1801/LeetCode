@@ -1,23 +1,13 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int smallestOdd = Integer.MAX_VALUE;
+        int mn = Integer.MAX_VALUE;
 
+        int oddCount = 0;
         for(int num : nums1){
-            if(num % 2 == 1){
-                smallestOdd = Math.min(smallestOdd, num);
-            }
+            mn = Math.min(mn, num);
+            if(num % 2 == 1) oddCount++;
         }
 
-        if(smallestOdd == Integer.MAX_VALUE){
-            return true;
-        }
-
-        for(int num : nums1){
-            if(num % 2 == 0 && num <= smallestOdd){
-                return false;
-            }
-        }
-
-        return true;
+        return mn % 2 != 0 || oddCount == 0;
     }
 }
