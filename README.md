@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abinav1801/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/abinav1801/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1672-richest-customer-wealth](https://github.com/abinav1801/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abinav1801/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/abinav1801/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abinav1801/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
