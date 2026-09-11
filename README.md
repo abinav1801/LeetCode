@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abinav1801/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/abinav1801/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/abinav1801/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/abinav1801/LeetCode/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abinav1801/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abinav1801/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/abinav1801/LeetCode/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/abinav1801/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/abinav1801/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abinav1801/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinav1801/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/abinav1801/LeetCode/tree/master/0189-rotate-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/abinav1801/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Greedy
 |  |
