@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/abinav1801/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/abinav1801/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abinav1801/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/abinav1801/LeetCode/tree/master/0217-contains-duplicate) |
 | [0493-reverse-pairs](https://github.com/abinav1801/LeetCode/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/abinav1801/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/abinav1801/LeetCode/tree/master/0867-transpose-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinav1801/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abinav1801/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abinav1801/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/abinav1801/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/abinav1801/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/abinav1801/LeetCode/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/abinav1801/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abinav1801/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abinav1801/LeetCode/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/abinav1801/LeetCode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
